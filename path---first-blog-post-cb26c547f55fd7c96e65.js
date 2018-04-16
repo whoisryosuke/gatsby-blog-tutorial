@@ -1,0 +1,2 @@
+webpackJsonp([0xc8f9a49f58dd],{322:function(o,e){o.exports={data:{markdownRemark:{html:'<p>Do you enjoy Gabe the Dog? He is the immortal lead singer of Bork, a European band that does covers of popular pop songs from the 80s, 90s, and today.</p>\n<iframe width="560" height="315" src="https://www.youtube.com/embed/c--etqIJcow?ecver=1" frameborder="0" allowfullscreen></iframe>',frontmatter:{title:"My first blog post"}}},pathContext:{slug:"/first-blog-post/"}}}});
+//# sourceMappingURL=path---first-blog-post-cb26c547f55fd7c96e65.js.map

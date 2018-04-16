@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{323:function(o,t){o.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{id:"/Volumes/WEEDPORNDAILY/Development/React/gatsby-blog-tutorial/src/blog/first-blog-post.md absPath of file >>> MarkdownRemark",frontmatter:{title:"My first blog post",date:"20 April, 2018"},fields:{slug:"/first-blog-post/"},excerpt:"Do you enjoy Gabe the Dog? He is the immortal lead singer of Bork, a European band that does covers of popular pop songs from the 80s, 90s…"}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-6a0be4f5b1aada96273a.js.map
