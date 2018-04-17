@@ -37,4 +37,13 @@ npm run deploy
 
 ### Netlify
 
+1. Click the following button, connect your Github account, and create a new repo.
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/whoisryosuke/gatsby-blog-tutorial)
+2. Go to the Deploys section, then click the Deploy settings button.
+3. Under Continuous Deployment, the first box should be Deploy Settings. Click Edit Settings at the bottom of the container.
+4. Change your Build command to `npm run build`
+5. Change your Publish directory to `public`
+6. Make sure the branch is master, or your preferred production branch.
+![Settings on Netlify](https://i.imgur.com/WcaXqOx.png)
+7. Click Save.
+8. Go to the Deploys section again and click Trigger deploy. Make sure the clear cache is checked, and run the deploy.
